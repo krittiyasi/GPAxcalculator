@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\bin\Debug\net6.0-windows\GPAxcalculator.exe
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\bin\Debug\net6.0-windows\GPAxcalculator.deps.json
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\bin\Debug\net6.0-windows\GPAxcalculator.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\bin\Debug\net6.0-windows\GPAxcalculator.dll
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\bin\Debug\net6.0-windows\ref\GPAxcalculator.dll
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\bin\Debug\net6.0-windows\GPAxcalculator.pdb
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.Form1.resources
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.dll
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\ref\GPAxcalculator.dll
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.pdb
+C:\Users\HP\Documents\GitHub\GPAxcalculator\GPAxcalculator\GPAxcalculator\obj\Debug\net6.0-windows\GPAxcalculator.genruntimeconfig.cache
